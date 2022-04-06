@@ -1,4 +1,4 @@
-# Rotating Navigation
+# Hidden Search Widget
 
 This hidden search widget has been built using HTML, CSS & JavaScript vanilla. With this small feature you can search anything and you will be redirected to duckduckgo page in a new tab displaying the results of your search.
 
