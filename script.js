@@ -5,7 +5,7 @@ const input = document.querySelector('.input');
 
 btnSearch.addEventListener('click', () => {
   if (search.classList.contains('active') && input.value) {
-    parent.open(`https://duckduckgo.com/?q=${input.value}`);
+    window.open(`https://duckduckgo.com/?q=${input.value}`);
   } else {
     search.classList.add('active');
     input.focus();
